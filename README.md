@@ -1,4 +1,4 @@
-lea# Variable Assignment
+# Variable Assignment
 
 ## Objectives
 
